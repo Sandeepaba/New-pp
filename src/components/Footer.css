@@ -1,0 +1,30 @@
+.footer {
+  text-align: center;
+  padding: 40px 6%;
+  background: #020617;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.footer-logo {
+  font-family: 'Syne', sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.footer-logo span {
+  color: #38bdf8;
+}
+
+.footer p {
+  color: #475569;
+  font-size: 14px;
+  margin-top: 6px;
+}
+
+.footer-copy {
+  margin-top: 10px;
+  font-size: 12px !important;
+  color: #334155 !important;
+}
